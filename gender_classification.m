@@ -1,6 +1,6 @@
 %Dataset includes 36*36 grayscale images
 %There are 2500 images seperately for men and women in training dataset
-%There are 200 images seperately for men and women in testing dataset
+%There are 200 images seperately for men and women in test dataset
 w=36;	h=36;
 
 %reading training dataset
